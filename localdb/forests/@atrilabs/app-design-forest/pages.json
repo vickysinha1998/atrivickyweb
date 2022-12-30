@@ -1,0 +1,22 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "08379180-b1ec-49af-9aaa-75d1e2268e79": {
+    "name": "About",
+    "route": "/About"
+  },
+  "732b8be7-d8df-4beb-82a7-f240699e923f": {
+    "name": "Shop",
+    "route": "/Shop"
+  },
+  "b2e09716-04a7-4181-aa16-f9dde3603e08": {
+    "name": "Contact",
+    "route": "/Contact"
+  },
+  "dad1ece5-0019-4816-93f0-2c850fdd3d85": {
+    "name": "Order",
+    "route": "/Order"
+  }
+}

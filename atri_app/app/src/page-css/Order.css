@@ -1,0 +1,270 @@
+.p-Order.Flex110 {
+display: flex;
+border-style: solid;
+height: 50px;
+background-color: #b2a6a6ff;
+width: 100%;
+flex-direction: row;
+}
+.p-Order.Flex107 {
+display: flex;
+width: 30%;
+height: 98%;
+flex-direction: row-reverse;
+}
+.p-Order.Flex108 {
+display: flex;
+width: 40%;
+justify-content: center;
+align-items: stretch;
+flex-direction: row;
+height: 98%;
+}
+.p-Order.Flex109 {
+display: flex;
+width: 30%;
+height: 98%;
+margin-left: ;
+align-self: center;
+flex-direction: row;
+}
+.p-Order.Flex111 {
+display: flex;
+height: 50px;
+margin-top: 3px;
+flex-direction: column;
+background-color: #bc0b0bff;
+color: #161615ff;
+}
+.p-Order.Flex112 {
+display: flex;
+width: 90%;
+height: 80%;
+border-style: solid;
+border-width: ;
+border-color: #020202;
+margin-top: 50px;
+margin-left: 50px;
+flex-direction: column;
+align-items: stretch;
+}
+.p-Order.Flex116 {
+display: flex;
+border-style: solid;
+border-color: #b2a6a6ff;
+flex-direction: row;
+align-content: flex-start;
+align-items: stretch;
+justify-content: flex-start;
+height: 40%;
+background-color: #b2a6a6ff;
+margin-top: 100px;
+}
+.p-Order.Flex113 {
+display: flex;
+width: 33.5%;
+margin-left: 15px;
+border-style: none;
+flex-direction: column;
+height: 220px;
+margin-top: 20px;
+}
+.p-Order.Flex114 {
+display: flex;
+width: 33.5%;
+margin-left: 15px;
+border-style: none;
+flex-direction: column;
+height: 220px;
+margin-top: 20px;
+}
+.p-Order.Flex115 {
+display: flex;
+width: 33.5%;
+margin-left: 15px;
+border-style: none;
+flex-direction: column;
+height: 220px;
+margin-top: 20px;
+}
+.p-Order.Flex117 {
+display: flex;
+height: 50px;
+margin-top: 5px;
+background-color: #bc0b0bff;
+flex-direction: column;
+border-color: #000000;
+border-style: solid;
+}
+.p-Order.Image118 {
+align-self: center;
+width: 20px;
+margin-left: 5px;
+}
+.p-Order.Image119 {
+width: 40px;
+align-self: center;
+margin-left: 15px;
+}
+.p-Order.Image120 {
+width: 40px;
+height: ;
+align-self: center;
+margin-left: 15px;
+margin-right: 15px;
+}
+.p-Order.Input15 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 4px;
+padding-left: 11px;
+padding-bottom: 4px;
+padding-right: 11px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 2px;
+align-self: center;
+width: 110px;
+}
+.p-Order.Link71 {
+align-self: center;
+margin-left: 15px;
+font-size: 25px;
+}
+.p-Order.Link72 {
+align-self: center;
+margin-left: 15px;
+font-size: 25px;
+}
+.p-Order.Link73 {
+margin-left: 15px;
+align-self: center;
+font-size: 25px;
+}
+.p-Order.Link74 {
+align-self: center;
+margin-left: 15px;
+font-size: 25px;
+}
+.p-Order.Link75 {
+align-self: center;
+font-size: 25px;
+margin-left: 10px;
+}
+.p-Order.TextBox175 {
+align-self: center;
+font-size: 40px;
+background-color: #b2a6a6ff;
+color: #940000ff;
+}
+.p-Order.Image121 {
+color: #b2a6a6ff;
+margin-left: 15px;
+}
+.p-Order.TextBox176 {
+align-self: center;
+margin-top: 10px;
+font-size: 30px;
+}
+.p-Order.Form2 {
+display: inline-flex;
+flex-direction: column;
+row-gap: 1em;
+padding: 10px;
+justify-content: space-around;
+align-items: flex-start;
+margin-top: 15px;
+margin-left: 50px;
+}
+.p-Order.TextBox177 {
+align-self: center;
+font-size: 27px;
+margin-top: 15px;
+}
+.p-Order.Link76 {
+align-self: center;
+margin-top: 15px;
+}
+.p-Order.Link77 {
+align-self: center;
+margin-top: 15px;
+}
+.p-Order.Link78 {
+align-self: center;
+margin-top: 15px;
+}
+.p-Order.Link79 {
+align-self: center;
+margin-top: 15px;
+}
+.p-Order.TextBox178 {
+align-self: center;
+font-size: 27px;
+text-align: center;
+margin-top: 15px;
+}
+.p-Order.TextBox179 {
+align-self: center;
+}
+.p-Order.Image122 {
+width: 20px;
+align-self: center;
+margin-top: 15px;
+}
+.p-Order.Image123 {
+margin-top: 15px;
+width: 20px;
+align-self: center;
+}
+.p-Order.TextBox180 {
+align-self: center;
+}
+.p-Order.Image124 {
+margin-top: 15px;
+align-self: center;
+width: 20px;
+}
+.p-Order.TextBox181 {
+align-self: center;
+}
+.p-Order.TextBox182 {
+align-self: center;
+margin-top: 15px;
+font-size: 27px;
+}
+.p-Order.Image125 {
+align-self: center;
+margin-top: 15px;
+width: 20px;
+}
+.p-Order.TextBox183 {
+align-self: center;
+}
+.p-Order.Image126 {
+align-self: center;
+width: 20px;
+margin-top: 15px;
+}
+.p-Order.TextBox184 {
+align-self: center;
+}
+.p-Order.Image127 {
+margin-top: 15px;
+align-self: center;
+width: 20px;
+}
+.p-Order.TextBox185 {
+align-self: center;
+}
+.p-Order.TextBox186 {
+align-self: center;
+margin-top: 15px;
+font-size: 25px;
+color: #040404ff;
+}

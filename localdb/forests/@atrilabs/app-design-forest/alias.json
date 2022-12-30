@@ -1,0 +1,15 @@
+{
+  "Flex": 117,
+  "Div": 35,
+  "Icon": 9,
+  "TextBox": 186,
+  "Link": 79,
+  "Image": 127,
+  "Input": 15,
+  "Dropdown": 3,
+  "Button": 22,
+  "Slider": 2,
+  "Carousel": 4,
+  "Cascader": 1,
+  "Form": 2
+}
